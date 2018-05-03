@@ -7,6 +7,8 @@ WARNING Server and Client will only work on UH Unix System.
 
 Download complete TrashCoin directory into UH Unix environment. 
 
+![alt text](https://github.com/TrashBoizLLC/TrashCoin/blob/master/Read%20Me/Compile.PNG)
+
 Open two or more sessions.
 
 In one session go into Server directory
