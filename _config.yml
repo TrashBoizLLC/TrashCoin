@@ -1,0 +1,5 @@
+title: Trash Coin
+description: Server & Client CryptoCurrency using a sha256 BlockChain.
+google analytics:
+show_downloads: false
+theme: jekyll-theme-midnight
